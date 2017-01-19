@@ -1,0 +1,37 @@
+.r1{
+
+	padding: 0px;
+}
+.bt{
+	background-color: blue;
+	color:#FFF;
+	font-size: 13px;
+	border-color:blue;
+}
+.r2{
+	height: 50px;
+	
+}
+
+.r4{
+	padding-top: 0px;
+	
+}
+.r4 td
+{
+
+padding-top: 10px;
+}
+.m{
+background-color: #dfe3ee;
+}
+.v
+{
+	background-color: #ffffff;
+	height: 300px;
+
+}
+.n{
+	background-color: #ffffff;
+	height: 100px;
+}
